@@ -1,0 +1,33 @@
+D:\EZTEK\Active+\activebff\ActiveBff\Src\Bff.Base\bin\Debug\net8.0\Bff.Base.deps.json
+D:\EZTEK\Active+\activebff\ActiveBff\Src\Bff.Base\bin\Debug\net8.0\Bff.Base.dll
+D:\EZTEK\Active+\activebff\ActiveBff\Src\Bff.Base\bin\Debug\net8.0\Bff.Base.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\Bff.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\EZTEK\Active+\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\Bff.Base.AssemblyInfoInputs.cache
+D:\EZTEK\Active+\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\Bff.Base.AssemblyInfo.cs
+D:\EZTEK\Active+\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\Bff.Base.csproj.CoreCompileInputs.cache
+D:\EZTEK\Active+\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\Bff.Base.dll
+D:\EZTEK\Active+\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\refint\Bff.Base.dll
+D:\EZTEK\Active+\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\Bff.Base.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\ref\Bff.Base.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Base\bin\Debug\net8.0\Bff.Base.deps.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Base\bin\Debug\net8.0\Bff.Base.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Base\bin\Debug\net8.0\Bff.Base.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Base\obj\Debug\net8.0\Bff.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Base\obj\Debug\net8.0\Bff.Base.AssemblyInfoInputs.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Base\obj\Debug\net8.0\Bff.Base.AssemblyInfo.cs
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Base\obj\Debug\net8.0\Bff.Base.csproj.CoreCompileInputs.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Base\obj\Debug\net8.0\Bff.Base.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Base\obj\Debug\net8.0\refint\Bff.Base.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Base\obj\Debug\net8.0\Bff.Base.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Base\obj\Debug\net8.0\ref\Bff.Base.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\Src\Bff.Base\bin\Debug\net8.0\Bff.Base.deps.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\Src\Bff.Base\bin\Debug\net8.0\Bff.Base.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\Src\Bff.Base\bin\Debug\net8.0\Bff.Base.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\Bff.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\EZTEK\Active+\test\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\Bff.Base.AssemblyInfoInputs.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\Bff.Base.AssemblyInfo.cs
+D:\EZTEK\Active+\test\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\Bff.Base.csproj.CoreCompileInputs.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\Bff.Base.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\refint\Bff.Base.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\Bff.Base.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\Src\Bff.Base\obj\Debug\net8.0\ref\Bff.Base.dll

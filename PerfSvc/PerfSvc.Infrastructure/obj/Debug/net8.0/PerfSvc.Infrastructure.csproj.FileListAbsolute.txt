@@ -1,0 +1,57 @@
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.deps.json
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.runtimeconfig.json
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\NetHelper.dll
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Domain.dll
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Domain.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\NetHelper.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.csproj.AssemblyReference.cache
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.AssemblyInfoInputs.cache
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.AssemblyInfo.cs
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc..70966796.Up2Date
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\refint\PerfSvc.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.genruntimeconfig.cache
+D:\EZTEK\Active+\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\ref\PerfSvc.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.deps.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.runtimeconfig.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\NetHelper.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Domain.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Domain.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\NetHelper.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.csproj.AssemblyReference.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.AssemblyInfoInputs.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.AssemblyInfo.cs
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc..70966796.Up2Date
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\refint\PerfSvc.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.genruntimeconfig.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\ref\PerfSvc.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.deps.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.runtimeconfig.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\NetHelper.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Domain.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\PerfSvc.Domain.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\bin\Debug\net8.0\NetHelper.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.csproj.AssemblyReference.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.AssemblyInfoInputs.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.AssemblyInfo.cs
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc..70966796.Up2Date
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\refint\PerfSvc.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\PerfSvc.Infrastructure.genruntimeconfig.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\PerfSvc\PerfSvc.Infrastructure\obj\Debug\net8.0\ref\PerfSvc.Infrastructure.dll

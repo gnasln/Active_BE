@@ -1,0 +1,63 @@
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.deps.json
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.runtimeconfig.json
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Application.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Domain.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\NetHelper.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Application.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Domain.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\NetHelper.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.csproj.AssemblyReference.cache
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.AssemblyInfoInputs.cache
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.AssemblyInfo.cs
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infr.8D433B42.Up2Date
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\refint\Bff.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.genruntimeconfig.cache
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\ref\Bff.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.deps.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.runtimeconfig.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Application.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Domain.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\NetHelper.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Application.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Domain.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\NetHelper.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.csproj.AssemblyReference.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.AssemblyInfoInputs.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.AssemblyInfo.cs
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infr.8D433B42.Up2Date
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\refint\Bff.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.genruntimeconfig.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\ref\Bff.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.deps.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.runtimeconfig.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Application.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Domain.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\NetHelper.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Application.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\Bff.Domain.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\bin\Debug\net8.0\NetHelper.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.csproj.AssemblyReference.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.AssemblyInfoInputs.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.AssemblyInfo.cs
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infr.8D433B42.Up2Date
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\refint\Bff.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\Bff.Infrastructure.genruntimeconfig.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff.Infrastructure\obj\Debug\net8.0\ref\Bff.Infrastructure.dll

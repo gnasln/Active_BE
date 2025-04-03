@@ -1,0 +1,48 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>900ce8a3-d6b6-4834-994e-71e7c31e24c3</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerfileContext>..\..</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Elastic.Apm.NetCoreAll" Version="1.28.0" />
+    <PackageReference Include="MediatR" Version="12.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks" Version="8.0.4" />
+    <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore" Version="8.0.4" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.20.1" />
+    <PackageReference Include="OpenIddict.AspNetCore" Version="5.5.0" />
+    <PackageReference Include="Serilog" Version="4.0.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.1" />
+    <PackageReference Include="Serilog.Extensions.Hosting" Version="8.0.0" />
+    <PackageReference Include="Serilog.Settings.Configuration" Version="8.0.1" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="6.0.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="6.0.0" />
+    <PackageReference Include="ServiceStack" Version="8.2.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\PerfSvc\PerfSvc.Application\PerfSvc.Application.csproj" />
+    <ProjectReference Include="..\..\PerfSvc\PerfSvc.Domain\PerfSvc.Domain.csproj" />
+    <ProjectReference Include="..\..\PerfSvc\PerfSvc.Infrastructure\PerfSvc.Infrastructure.csproj" />
+    <ProjectReference Include="..\..\TodoSvc\Todo.Application\TodoSvc.Application.csproj" />
+    <ProjectReference Include="..\..\TodoSvc\Todo.Domain\TodoSvc.Domain.csproj" />
+    <ProjectReference Include="..\..\TodoSvc\Todo.Infrastructure\TodoSvc.Infrastructure.csproj" />
+    <ProjectReference Include="..\Bff.Application\Bff.Application.csproj" />
+    <ProjectReference Include="..\Bff.Base\Bff.Base.csproj" />
+    <ProjectReference Include="..\Bff.Domain\Bff.Domain.csproj" />
+    <ProjectReference Include="..\Bff.Infrastructure\Bff.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>

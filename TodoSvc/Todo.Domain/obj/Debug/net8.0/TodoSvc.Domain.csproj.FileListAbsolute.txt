@@ -1,0 +1,45 @@
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\TodoSvc.Domain.deps.json
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\TodoSvc.Domain.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\TodoSvc.Domain.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\NetHelper.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\NetHelper.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.csproj.AssemblyReference.cache
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.AssemblyInfoInputs.cache
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.AssemblyInfo.cs
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.csproj.CoreCompileInputs.cache
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc..F952CB4C.Up2Date
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\refint\TodoSvc.Domain.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\ref\TodoSvc.Domain.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\TodoSvc.Domain.deps.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\TodoSvc.Domain.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\TodoSvc.Domain.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\NetHelper.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\NetHelper.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.csproj.AssemblyReference.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.AssemblyInfoInputs.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.AssemblyInfo.cs
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.csproj.CoreCompileInputs.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc..F952CB4C.Up2Date
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\refint\TodoSvc.Domain.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\ref\TodoSvc.Domain.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\TodoSvc.Domain.deps.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\TodoSvc.Domain.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\TodoSvc.Domain.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\NetHelper.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\bin\Debug\net8.0\NetHelper.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.csproj.AssemblyReference.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.AssemblyInfoInputs.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.AssemblyInfo.cs
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.csproj.CoreCompileInputs.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc..F952CB4C.Up2Date
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\refint\TodoSvc.Domain.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\TodoSvc.Domain.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Domain\obj\Debug\net8.0\ref\TodoSvc.Domain.dll

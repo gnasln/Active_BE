@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|d:\\eztek\\active\u002B\\test\\activebff\\activebff\\perfsvc\\perfsvc.application\\object\\queries\\getallobjectfromunitquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|solutionrelative:perfsvc\\perfsvc.application\\object\\queries\\getallobjectfromunitquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|d:\\eztek\\active\u002B\\test\\activebff\\activebff\\perfsvc\\perfsvc.application\\unit\\queries\\readunitquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|solutionrelative:perfsvc\\perfsvc.application\\unit\\queries\\readunitquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|d:\\eztek\\active\u002B\\test\\activebff\\activebff\\perfsvc\\perfsvc.application\\unit\\queries\\getunitfromtenantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|solutionrelative:perfsvc\\perfsvc.application\\unit\\queries\\getunitfromtenantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|d:\\eztek\\active\u002B\\test\\activebff\\activebff\\perfsvc\\perfsvc.application\\object\\commands\\updateobjectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|solutionrelative:perfsvc\\perfsvc.application\\object\\commands\\updateobjectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|d:\\eztek\\active\u002B\\test\\activebff\\activebff\\perfsvc\\perfsvc.application\\object\\commands\\createobjectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|solutionrelative:perfsvc\\perfsvc.application\\object\\commands\\createobjectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|d:\\eztek\\active\u002B\\test\\activebff\\activebff\\perfsvc\\perfsvc.application\\unit\\commands\\createunitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|solutionrelative:perfsvc\\perfsvc.application\\unit\\commands\\createunitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|d:\\eztek\\active\u002B\\test\\activebff\\activebff\\perfsvc\\perfsvc.application\\unit\\commands\\deleteunitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AED7439-4830-4BAF-8CF7-4B31DF2CB746}|PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj|solutionrelative:perfsvc\\perfsvc.application\\unit\\commands\\deleteunitcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31077CCB-29B5-484C-94AD-5DD7100706C1}|src\\Bff.Application\\Bff.Application.csproj|d:\\eztek\\active\u002B\\test\\activebff\\activebff\\src\\bff.application\\tenant\\commands\\deletetenantcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31077CCB-29B5-484C-94AD-5DD7100706C1}|src\\Bff.Application\\Bff.Application.csproj|solutionrelative:src\\bff.application\\tenant\\commands\\deletetenantcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4374122-8A8E-425B-9930-99ADA10F7492}|src\\Bff\\Bff.csproj|d:\\eztek\\active\u002B\\test\\activebff\\activebff\\src\\bff\\endpoints\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4374122-8A8E-425B-9930-99ADA10F7492}|src\\Bff\\Bff.csproj|solutionrelative:src\\bff\\endpoints\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4374122-8A8E-425B-9930-99ADA10F7492}|src\\Bff\\Bff.csproj|d:\\eztek\\active\u002B\\test\\activebff\\activebff\\src\\bff\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E4374122-8A8E-425B-9930-99ADA10F7492}|src\\Bff\\Bff.csproj|solutionrelative:src\\bff\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4374122-8A8E-425B-9930-99ADA10F7492}|src\\Bff\\Bff.csproj|d:\\eztek\\active\u002B\\test\\activebff\\activebff\\src\\bff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4374122-8A8E-425B-9930-99ADA10F7492}|src\\Bff\\Bff.csproj|solutionrelative:src\\bff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllObjectFromUnitQuery.cs",
+              "DocumentMoniker": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Object\\Queries\\GetAllObjectFromUnitQuery.cs",
+              "RelativeDocumentMoniker": "PerfSvc\\PerfSvc.Application\\Object\\Queries\\GetAllObjectFromUnitQuery.cs",
+              "ToolTip": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Object\\Queries\\GetAllObjectFromUnitQuery.cs",
+              "RelativeToolTip": "PerfSvc\\PerfSvc.Application\\Object\\Queries\\GetAllObjectFromUnitQuery.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:30:21.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReadUnitQuery.cs",
+              "DocumentMoniker": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Unit\\Queries\\ReadUnitQuery.cs",
+              "RelativeDocumentMoniker": "PerfSvc\\PerfSvc.Application\\Unit\\Queries\\ReadUnitQuery.cs",
+              "ToolTip": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Unit\\Queries\\ReadUnitQuery.cs",
+              "RelativeToolTip": "PerfSvc\\PerfSvc.Application\\Unit\\Queries\\ReadUnitQuery.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:29:53.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetUnitFromTenantQuery.cs",
+              "DocumentMoniker": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Unit\\Queries\\GetUnitFromTenantQuery.cs",
+              "RelativeDocumentMoniker": "PerfSvc\\PerfSvc.Application\\Unit\\Queries\\GetUnitFromTenantQuery.cs",
+              "ToolTip": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Unit\\Queries\\GetUnitFromTenantQuery.cs",
+              "RelativeToolTip": "PerfSvc\\PerfSvc.Application\\Unit\\Queries\\GetUnitFromTenantQuery.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:29:49.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateObjectCommand.cs",
+              "DocumentMoniker": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Object\\Commands\\UpdateObjectCommand.cs",
+              "RelativeDocumentMoniker": "PerfSvc\\PerfSvc.Application\\Object\\Commands\\UpdateObjectCommand.cs",
+              "ToolTip": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Object\\Commands\\UpdateObjectCommand.cs",
+              "RelativeToolTip": "PerfSvc\\PerfSvc.Application\\Object\\Commands\\UpdateObjectCommand.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:15:31.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateObjectCommand.cs",
+              "DocumentMoniker": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Object\\Commands\\CreateObjectCommand.cs",
+              "RelativeDocumentMoniker": "PerfSvc\\PerfSvc.Application\\Object\\Commands\\CreateObjectCommand.cs",
+              "ToolTip": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Object\\Commands\\CreateObjectCommand.cs",
+              "RelativeToolTip": "PerfSvc\\PerfSvc.Application\\Object\\Commands\\CreateObjectCommand.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:15:24.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateUnitCommand.cs",
+              "DocumentMoniker": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Unit\\Commands\\CreateUnitCommand.cs",
+              "RelativeDocumentMoniker": "PerfSvc\\PerfSvc.Application\\Unit\\Commands\\CreateUnitCommand.cs",
+              "ToolTip": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Unit\\Commands\\CreateUnitCommand.cs",
+              "RelativeToolTip": "PerfSvc\\PerfSvc.Application\\Unit\\Commands\\CreateUnitCommand.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAEEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T03:14:05.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteUnitCommand.cs",
+              "DocumentMoniker": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Unit\\Commands\\DeleteUnitCommand.cs",
+              "RelativeDocumentMoniker": "PerfSvc\\PerfSvc.Application\\Unit\\Commands\\DeleteUnitCommand.cs",
+              "ToolTip": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\Unit\\Commands\\DeleteUnitCommand.cs",
+              "RelativeToolTip": "PerfSvc\\PerfSvc.Application\\Unit\\Commands\\DeleteUnitCommand.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:44:22.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DeleteTenantCommand.cs",
+              "DocumentMoniker": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Tenant\\Commands\\DeleteTenantCommand.cs",
+              "RelativeDocumentMoniker": "src\\Bff.Application\\Tenant\\Commands\\DeleteTenantCommand.cs",
+              "ToolTip": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Tenant\\Commands\\DeleteTenantCommand.cs",
+              "RelativeToolTip": "src\\Bff.Application\\Tenant\\Commands\\DeleteTenantCommand.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:12:02.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\src\\Bff\\Endpoints\\Tenant.cs",
+              "RelativeDocumentMoniker": "src\\Bff\\Endpoints\\Tenant.cs",
+              "ToolTip": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\src\\Bff\\Endpoints\\Tenant.cs",
+              "RelativeToolTip": "src\\Bff\\Endpoints\\Tenant.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAwJcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:11:45.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\src\\Bff\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Bff\\appsettings.json",
+              "ToolTip": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\src\\Bff\\appsettings.json",
+              "RelativeToolTip": "src\\Bff\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-17T02:35:35.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\src\\Bff\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Bff\\Program.cs",
+              "ToolTip": "D:\\EZTEK\\Active\u002B\\test\\activebff\\ActiveBff\\src\\Bff\\Program.cs",
+              "RelativeToolTip": "src\\Bff\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T02:35:33.47Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

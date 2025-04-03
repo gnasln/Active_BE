@@ -1,0 +1,1077 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff\\Bff.csproj": {}
+  },
+  "projects": {
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\NetHelper\\NetHelper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\NetHelper\\NetHelper.csproj",
+        "projectName": "NetHelper",
+        "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\NetHelper\\NetHelper.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\NetHelper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj",
+        "projectName": "PerfSvc.Application",
+        "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Domain\\PerfSvc.Domain.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Domain\\PerfSvc.Domain.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Infrastructure\\PerfSvc.Infrastructure.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Infrastructure\\PerfSvc.Infrastructure.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Bff.Application.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Bff.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Domain\\PerfSvc.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Domain\\PerfSvc.Domain.csproj",
+        "projectName": "PerfSvc.Domain",
+        "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Domain\\PerfSvc.Domain.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\NetHelper\\NetHelper.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\NetHelper\\NetHelper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Infrastructure\\PerfSvc.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Infrastructure\\PerfSvc.Infrastructure.csproj",
+        "projectName": "PerfSvc.Infrastructure",
+        "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Infrastructure\\PerfSvc.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Domain\\PerfSvc.Domain.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Domain\\PerfSvc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Bff.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Bff.Application.csproj",
+        "projectName": "Bff.Application",
+        "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Bff.Application.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\NetHelper\\NetHelper.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\NetHelper\\NetHelper.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Domain\\Bff.Domain.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Domain\\Bff.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.GuardClauses": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\Src\\Bff.Base\\Bff.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\Src\\Bff.Base\\Bff.Base.csproj",
+        "projectName": "Bff.Base",
+        "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\Src\\Bff.Base\\Bff.Base.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\Src\\Bff.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Domain\\Bff.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Domain\\Bff.Domain.csproj",
+        "projectName": "Bff.Domain",
+        "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Domain\\Bff.Domain.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Infrastructure\\Bff.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Infrastructure\\Bff.Infrastructure.csproj",
+        "projectName": "Bff.Infrastructure",
+        "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Infrastructure\\Bff.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Bff.Application.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Bff.Application.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Domain\\Bff.Domain.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Domain\\Bff.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Mailkit": {
+              "target": "Package",
+              "version": "[4.7.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "OpenIddict.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "OpenIddict.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "OpenIddict.Quartz": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "Quartz.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.8.1, )"
+            },
+            "mimekit": {
+              "target": "Package",
+              "version": "[4.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff\\Bff.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff\\Bff.csproj",
+        "projectName": "Bff",
+        "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff\\Bff.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Application\\PerfSvc.Application.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Domain\\PerfSvc.Domain.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Domain\\PerfSvc.Domain.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Infrastructure\\PerfSvc.Infrastructure.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Infrastructure\\PerfSvc.Infrastructure.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Bff.Application.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Bff.Application.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Base\\Bff.Base.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Base\\Bff.Base.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Domain\\Bff.Domain.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Domain\\Bff.Domain.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Infrastructure\\Bff.Infrastructure.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Infrastructure\\Bff.Infrastructure.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Application\\TodoSvc.Application.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Application\\TodoSvc.Application.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Domain\\TodoSvc.Domain.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Domain\\TodoSvc.Domain.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Infrastructure\\TodoSvc.Infrastructure.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Infrastructure\\TodoSvc.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Elastic.Apm.NetCoreAll": {
+              "target": "Package",
+              "version": "[1.28.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.20.1, )"
+            },
+            "OpenIddict.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Serilog.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Serilog.Sinks.Console": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "ServiceStack": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Application\\TodoSvc.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Application\\TodoSvc.Application.csproj",
+        "projectName": "TodoSvc.Application",
+        "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Application\\TodoSvc.Application.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Infrastructure\\PerfSvc.Infrastructure.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\PerfSvc\\PerfSvc.Infrastructure\\PerfSvc.Infrastructure.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Bff.Application.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Application\\Bff.Application.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Infrastructure\\Bff.Infrastructure.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\src\\Bff.Infrastructure\\Bff.Infrastructure.csproj"
+              },
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Domain\\TodoSvc.Domain.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Domain\\TodoSvc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Domain\\TodoSvc.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Domain\\TodoSvc.Domain.csproj",
+        "projectName": "TodoSvc.Domain",
+        "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Domain\\TodoSvc.Domain.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\NetHelper\\NetHelper.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\NetHelper\\NetHelper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Infrastructure\\TodoSvc.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Infrastructure\\TodoSvc.Infrastructure.csproj",
+        "projectName": "TodoSvc.Infrastructure",
+        "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Infrastructure\\TodoSvc.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sang\\.nuget\\packages\\",
+        "outputPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Application\\TodoSvc.Application.csproj": {
+                "projectPath": "D:\\EZTEK\\Active+\\test\\activebff\\ActiveBff\\TodoSvc\\Todo.Application\\TodoSvc.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

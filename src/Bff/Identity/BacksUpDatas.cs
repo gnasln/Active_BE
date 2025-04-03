@@ -1,0 +1,12 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Bff.Identity
+{
+    public record BacksUpDatas
+    {
+        public Guid TenantId { get; init; }
+    }
+}

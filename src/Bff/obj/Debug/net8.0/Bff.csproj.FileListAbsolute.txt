@@ -1,0 +1,762 @@
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\appsettings.Development.json
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\appsettings.json
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.exe
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.deps.json
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.runtimeconfig.json
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Ardalis.GuardClauses.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\AutoMapper.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\DnsClient.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.AspNetCore.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Azure.CosmosDb.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Azure.ServiceBus.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Azure.Storage.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Elasticsearch.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.EntityFrameworkCore.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Extensions.Hosting.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Extensions.Logging.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.GrpcClient.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.MongoDb.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.NetCoreAll.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elasticsearch.Net.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\FluentValidation.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Humanizer.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MailKit.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MediatR.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MimeKit.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Npgsql.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Abstractions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.AspNetCore.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.DataProtection.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.SystemIntegration.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.SystemNetHttp.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.WebIntegration.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Core.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.EntityFrameworkCore.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.EntityFrameworkCore.Models.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Quartz.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Server.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Server.AspNetCore.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Server.DataProtection.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.AspNetCore.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.DataProtection.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.ServerIntegration.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.SystemNetHttp.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.Core.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.Extensions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.Extensions.Http.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.RateLimiting.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Quartz.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Quartz.Extensions.DependencyInjection.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Quartz.Extensions.Hosting.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.Client.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.Common.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.Text.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\SharpCompress.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Snappier.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.CodeDom.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ZstdSharp.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Application.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Base.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Domain.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\NetHelper.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Application.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Domain.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Application.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Domain.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Application.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Domain.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Infrastructure.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Application.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Domain.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Infrastructure.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Application.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Base.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Domain.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Infrastructure.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\NetHelper.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.csproj.AssemblyReference.cache
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.GeneratedMSBuildEditorConfig.editorconfig
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.AssemblyInfoInputs.cache
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.AssemblyInfo.cs
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.csproj.CoreCompileInputs.cache
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.MvcApplicationPartsAssemblyInfo.cs
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.MvcApplicationPartsAssemblyInfo.cache
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets.build.json
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets.development.json
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.Bff.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.build.Bff.props
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bff.props
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bff.props
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets.pack.json
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\scopedcss\bundle\Bff.styles.css
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.csproj.Up2Date
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\refint\Bff.dll
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.genruntimeconfig.cache
+D:\EZTEK\Active+\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\ref\Bff.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\appsettings.Development.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\appsettings.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.staticwebassets.endpoints.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.exe
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.deps.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.runtimeconfig.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Ardalis.GuardClauses.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\AutoMapper.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\DnsClient.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.AspNetCore.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Azure.CosmosDb.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Azure.ServiceBus.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Azure.Storage.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Elasticsearch.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.EntityFrameworkCore.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Extensions.Hosting.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Extensions.Logging.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.GrpcClient.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.MongoDb.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.NetCoreAll.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elasticsearch.Net.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\FluentValidation.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Humanizer.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MailKit.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MediatR.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MimeKit.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Npgsql.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Abstractions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.AspNetCore.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.DataProtection.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.SystemIntegration.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.SystemNetHttp.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.WebIntegration.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Core.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.EntityFrameworkCore.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.EntityFrameworkCore.Models.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Quartz.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Server.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Server.AspNetCore.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Server.DataProtection.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.AspNetCore.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.DataProtection.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.ServerIntegration.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.SystemNetHttp.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.Core.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.Extensions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.Extensions.Http.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.RateLimiting.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Quartz.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Quartz.Extensions.DependencyInjection.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Quartz.Extensions.Hosting.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.Client.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.Common.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.Text.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\SharpCompress.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Snappier.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.CodeDom.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ZstdSharp.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Application.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Base.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Domain.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\NetHelper.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Application.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Domain.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Application.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Domain.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Application.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Domain.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Infrastructure.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Application.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Domain.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Infrastructure.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Application.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Base.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Domain.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Infrastructure.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\NetHelper.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.csproj.AssemblyReference.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.AssemblyInfoInputs.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.AssemblyInfo.cs
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.csproj.CoreCompileInputs.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.MvcApplicationPartsAssemblyInfo.cs
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.MvcApplicationPartsAssemblyInfo.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\scopedcss\bundle\Bff.styles.css
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets.build.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets.development.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.Bff.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.Bff.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.build.Bff.props
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bff.props
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bff.props
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.csproj.Up2Date
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\refint\Bff.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.genruntimeconfig.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\ref\Bff.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\appsettings.Development.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\appsettings.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.exe
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.deps.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.runtimeconfig.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Ardalis.GuardClauses.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\AutoMapper.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\AWSSDK.Core.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\DnsClient.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.AspNetCore.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Azure.CosmosDb.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Azure.ServiceBus.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Azure.Storage.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Elasticsearch.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.EntityFrameworkCore.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Extensions.Hosting.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.Extensions.Logging.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.GrpcClient.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.MongoDb.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elastic.Apm.NetCoreAll.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Elasticsearch.Net.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\FluentValidation.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Humanizer.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MailKit.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MediatR.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.AmbientMetadata.Application.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Compliance.Abstractions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.AutoActivation.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.ExceptionSummarization.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Http.Diagnostics.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Http.Polly.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Http.Resilience.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Resilience.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Extensions.Telemetry.Abstractions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MimeKit.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MongoDB.Bson.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Npgsql.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Abstractions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.AspNetCore.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.DataProtection.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.SystemIntegration.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.SystemNetHttp.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Client.WebIntegration.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Core.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.EntityFrameworkCore.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.EntityFrameworkCore.Models.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Quartz.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Server.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Server.AspNetCore.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Server.DataProtection.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.AspNetCore.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.DataProtection.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.ServerIntegration.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\OpenIddict.Validation.SystemNetHttp.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.Core.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.Extensions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.Extensions.Http.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Polly.RateLimiting.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Quartz.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Quartz.Extensions.DependencyInjection.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Quartz.Extensions.Hosting.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.Client.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.Common.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.Interfaces.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ServiceStack.Text.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\SharpCompress.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Snappier.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.CodeDom.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ZstdSharp.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Application.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Base.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Domain.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\NetHelper.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Application.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Domain.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Application.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Domain.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Application.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Domain.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\PerfSvc.Infrastructure.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Application.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Domain.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\TodoSvc.Infrastructure.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Application.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Base.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Domain.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\Bff.Infrastructure.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\bin\Debug\net8.0\NetHelper.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.csproj.AssemblyReference.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.GeneratedMSBuildEditorConfig.editorconfig
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.AssemblyInfoInputs.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.AssemblyInfo.cs
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.csproj.CoreCompileInputs.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.MvcApplicationPartsAssemblyInfo.cs
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.MvcApplicationPartsAssemblyInfo.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets.build.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets.development.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.Bff.Microsoft.AspNetCore.StaticWebAssets.props
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.build.Bff.props
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bff.props
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bff.props
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\staticwebassets.pack.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\scopedcss\bundle\Bff.styles.css
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.csproj.Up2Date
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\refint\Bff.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\Bff.genruntimeconfig.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\src\Bff\obj\Debug\net8.0\ref\Bff.dll

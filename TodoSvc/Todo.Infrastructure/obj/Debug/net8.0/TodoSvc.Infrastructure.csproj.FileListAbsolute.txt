@@ -1,0 +1,93 @@
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Infrastructure.deps.json
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Infrastructure.runtimeconfig.json
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Infrastructure.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Application.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Domain.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\NetHelper.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\PerfSvc.Domain.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Application.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Domain.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Application.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Application.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Domain.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\NetHelper.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\PerfSvc.Domain.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Domain.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.csproj.AssemblyReference.cache
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.AssemblyInfoInputs.cache
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.AssemblyInfo.cs
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc..213209E0.Up2Date
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\refint\TodoSvc.Infrastructure.dll
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.pdb
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.genruntimeconfig.cache
+D:\EZTEK\Active+\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\ref\TodoSvc.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Infrastructure.deps.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Infrastructure.runtimeconfig.json
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Infrastructure.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Application.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Domain.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\NetHelper.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\PerfSvc.Domain.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Application.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Domain.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Application.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Application.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Domain.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\NetHelper.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\PerfSvc.Domain.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Domain.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.csproj.AssemblyReference.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.AssemblyInfoInputs.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.AssemblyInfo.cs
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc..213209E0.Up2Date
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\refint\TodoSvc.Infrastructure.dll
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.pdb
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.genruntimeconfig.cache
+D:\Thuc tap\Eztek\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\ref\TodoSvc.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Infrastructure.deps.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Infrastructure.runtimeconfig.json
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Infrastructure.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Application.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Domain.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\NetHelper.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\PerfSvc.Domain.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Application.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Domain.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Application.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Application.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Domain.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\Bff.Infrastructure.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\NetHelper.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\PerfSvc.Domain.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\PerfSvc.Infrastructure.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\bin\Debug\net8.0\TodoSvc.Domain.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.csproj.AssemblyReference.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.AssemblyInfoInputs.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.AssemblyInfo.cs
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc..213209E0.Up2Date
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\refint\TodoSvc.Infrastructure.dll
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.pdb
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\TodoSvc.Infrastructure.genruntimeconfig.cache
+D:\EZTEK\Active+\test\activebff\ActiveBff\TodoSvc\Todo.Infrastructure\obj\Debug\net8.0\ref\TodoSvc.Infrastructure.dll
