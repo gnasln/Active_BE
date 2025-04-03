@@ -27,25 +27,25 @@ namespace PerfSvc.Application.Unit.Commands
         {
             try
             {
-                var unit = await _unitRepository.GetUnitById(request.Id, cancellationToken);
+                //var unit = await _unitRepository.GetUnitById(request.Id, cancellationToken);
 
-                if(unit == null)
-                {
-                    return new ResultCustom<string>
-                    {
-                        Status = StatusCode.NOTFOUND,
-                        Message = new[] { "Unit not found" }
-                    };
-                }
+                //if(unit == null)
+                //{
+                //    return new ResultCustom<string>
+                //    {
+                //        Status = StatusCode.NOTFOUND,
+                //        Message = new[] { "Unit not found" }
+                //    };
+                //}
 
-                // check tenant exist 
-                CheckTenantExist t = new() { TenantId = unit.TenantId };
-                var checkTenantExist = await _sender.Send(t);
-                if (!checkTenantExist) return new ResultCustom<string>
-                {
-                    Status = StatusCode.NOTFOUND,
-                    Message = new[] { "This tenant is not exist, can't create unit" }
-                };
+                //// check tenant exist 
+                //CheckTenantExist t = new() { TenantId = unit.TenantId };
+                //var checkTenantExist = await _sender.Send(t);
+                //if (!checkTenantExist) return new ResultCustom<string>
+                //{
+                //    Status = StatusCode.NOTFOUND,
+                //    Message = new[] { "This tenant is not exist, can't create unit" }
+                //};
 
                 await _unitRepository.DeleteUnit(request.Id, cancellationToken);
                 return new ResultCustom<string>
