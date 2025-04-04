@@ -4,6 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+	  <PreserveCompilationContext>true</PreserveCompilationContext>
     <UserSecretsId>900ce8a3-d6b6-4834-994e-71e7c31e24c3</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>..\..</DockerfileContext>
@@ -43,6 +44,10 @@
     <ProjectReference Include="..\Bff.Base\Bff.Base.csproj" />
     <ProjectReference Include="..\Bff.Domain\Bff.Domain.csproj" />
     <ProjectReference Include="..\Bff.Infrastructure\Bff.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Resources\Templates\Send_OTP.cshtml" />
   </ItemGroup>
 
 </Project>

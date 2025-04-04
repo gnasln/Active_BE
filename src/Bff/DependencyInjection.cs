@@ -1,5 +1,6 @@
 ﻿using Bff.Application.Common.Interfaces;
 using Bff.Application.Contracts.Persistence;
+using Bff.Helper.Services;
 using Bff.Infrastructure.Data;
 using Bff.Infrastructure.Extensions;
 using Bff.Services;
@@ -17,7 +18,7 @@ public static class DependencyInjection
     {
         services.AddDatabaseDeveloperPageExceptionFilter();
         services.AddScoped<IUser, CurrentUser>();
-        services.AddScoped<IMailServices, MailServices>();
+        services.AddSingleton<OTPService>();
         services.AddHttpContextAccessor();
 
         services.AddHealthChecks()
@@ -45,5 +46,17 @@ public static class DependencyInjection
         services.AddTransient<AuthorizationChecker>();
 
         return services;
+    }
+    
+    public static void AddFluentEmail(this IServiceCollection services, ConfigurationManager configuration)
+    {
+        var emailSettings = configuration.GetSection("EmailSettings");
+        var defaultFromEmail = emailSettings["FromAddress"];
+        var host = emailSettings["Host"];
+        var port = emailSettings.GetValue<int>("Port");
+        
+        services.AddFluentEmail(defaultFromEmail)
+            .AddRazorRenderer()
+            .AddSmtpSender(host, port, defaultFromEmail, emailSettings["Password"]);
     }
 }

@@ -2,12 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
+	  <PreserveCompilationContext>true</PreserveCompilationContext>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="FluentEmail.Core" Version="3.0.2"/>
+    <PackageReference Include="FluentEmail.Razor" Version="3.0.2"/>
+    <PackageReference Include="FluentEmail.Smtp" Version="3.0.2"/>
+    <PackageReference Include="System.Runtime.CompilerServices.Unsafe" Version="6.0.0" />
     <PackageReference Include="Mailkit" Version="4.7.1.1" />
+    <PackageReference Include="ServiceStack" Version="8.2.2" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.4">
@@ -27,6 +33,10 @@
   <ItemGroup>
     <ProjectReference Include="..\Bff.Application\Bff.Application.csproj" />
     <ProjectReference Include="..\Bff.Domain\Bff.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <AdditionalFiles Include="Resources\Templates\Send_OTP.cshtml" />
   </ItemGroup>
 
 </Project>

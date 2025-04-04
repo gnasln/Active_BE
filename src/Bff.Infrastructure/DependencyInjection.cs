@@ -1,6 +1,8 @@
 ﻿using Bff.Application.Common.Interfaces;
+using Bff.Application.Contracts.Persistence;
 using Bff.Infrastructure.Data;
 using Bff.Infrastructure.Data.Interceptors;
+using Bff.Infrastructure.Extensions;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Diagnostics;
@@ -21,6 +23,7 @@ public static class DependencyInjection
 
         services.AddScoped<ISaveChangesInterceptor, AuditableEntityInterceptor>();
         services.AddScoped<ISaveChangesInterceptor, DispatchDomainEventsInterceptor>();
+        services.AddScoped<IMailServices, MailServices>();
 
         services.AddDbContext<ApplicationDbContext>((sp, options) =>
         {
