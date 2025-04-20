@@ -29,8 +29,9 @@ public class TodoItem
     public Guid Assigner { get; set; } = Guid.Empty;
     public Guid? Assignee { get; set; } = Guid.Empty;
     public string AssigneeName { get; set; } = string.Empty;
-    public Guid? UnitId { get; set; } = Guid.Empty;
+    public Guid? ObjectId { get; set; } = Guid.Empty;
     public Guid? ModifiedBy { get; set; } = Guid.Empty;
+    public bool IsDone { get; set; } = false;
     #endregion
 
 

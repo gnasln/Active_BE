@@ -11,6 +11,8 @@ using Bff.Application.Contracts.Persistence;
 using NetHelper.Common.Models;
 using Bff.Application.Tenants.Queries;
 using Bff.Domain.Constants;
+using Bff.Helper.Services;
+using static System.Net.WebRequestMethods;
 
 
 namespace Bff.Endpoints;
@@ -72,38 +74,27 @@ public class User : EndpointGroupBase
 
     /* forgot password */
     // checkemail
-    public async Task<IResult> CheckEmails(UserManager<ApplicationUser> _userManager, [FromBody] CheckEmail checkEmail,
+    public async Task<IResult> CheckEmails([FromServices] OTPService OtpService, UserManager<ApplicationUser> UserManager, [FromBody] CheckEmail checkEmail,
         [FromServices] IMailServices MailServices)
     {
         try
         {
-            var user = await _userManager.FindByEmailAsync(checkEmail.Email);
-            if (user is null)
+            var user = UserManager.Users.FirstOrDefault(u => u.Email == checkEmail.Email);
+            if (user == null)
             {
-                return Results.BadRequest("400|Email not found");
+                return Results.NotFound("User not found.");
             }
-
             //tao otp
-            var verifyCodeOtp = GenerateVerificationCode(6);
-            //send otp email
-            var sendInfo = new MailInfo
-            {
-                recipient = user.Email,
-                subject = "Thay đổi mật khẩu",
-                body = $"Mã OTP của '{user.UserName}' là {verifyCodeOtp}"
-            };
-            var emailResult = await MailServices.SendMailAsync(sendInfo);
-            if (!emailResult)
-            {
-                return Results.BadRequest("400 | gửi email không thàng công !");
-            }
+            var verifyCodeOtp = OtpService.GenerateOTP();
+            OtpService.SaveOTP(checkEmail.Email, verifyCodeOtp);
 
+            await MailServices.SendEmailAsync(checkEmail.Email, user.FullName!, verifyCodeOtp);
             //luu otp vao db
             user.OTP = verifyCodeOtp;
             user.Expires_at = DateTime.UtcNow.AddMinutes(10);
             user.Updated_at = DateTime.UtcNow;
 
-            var result = await _userManager.UpdateAsync(user);
+            var result = await UserManager.UpdateAsync(user);
 
             if (result.Succeeded)
             {
@@ -114,9 +105,9 @@ public class User : EndpointGroupBase
                 return Results.BadRequest($"500|{string.Join(", ", result.Errors.Select(e => e.Description))}");
             }
         }
-        catch (System.Exception)
+        catch (Exception e)
         {
-            return Results.BadRequest("500 | error check email");
+            return Results.BadRequest(e);
         }
     }
 
@@ -133,16 +124,15 @@ public class User : EndpointGroupBase
     {
         try
         {
-            var user = await _userManager.FindByNameAsync(checkOtp.UserName);
-
-            if (user is null)
+            var user = _userManager.Users.FirstOrDefault(u => u.Email == checkOtp.Email);
+            if (user == null)
             {
-                return Results.BadRequest("400 | vui long nhap thong tin  !");
+                return Results.NotFound("User not found.");
             }
 
-            if (checkOtp.OTP != user.OTP || checkOtp.UserName != user.UserName)
+            if (checkOtp.OTP != user.OTP || checkOtp.Email != user.Email)
             {
-                return Results.BadRequest("400 | thong tin cua otp or username khong hop le !");
+                return Results.BadRequest("400 | thong tin cua otp or Email khong hop le !");
             }
 
             if (user.Expires_at < DateTime.UtcNow)

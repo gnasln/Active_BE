@@ -27,7 +27,8 @@ public record UpdateTodoRequest : IRequest
     public Guid? Assigner { get; init; }
     public Guid? Assignee { get; init; }
     public string? AssigneeName { get; init; }
-    public Guid? UnitId { get; init; }
+    public Guid? ObjectId { get; init; }
+    public bool IsDone { get; set; } = false;
     #endregion
     public List<Guid>? MemberIds { get; set; }
     public List<string>? MemberName { get; set; }
@@ -57,7 +58,7 @@ public class UpdateTodoRequestHandler(ITodoDbContext db) : IRequestHandler<Updat
         if (request.Assigner is not null) entity.Assigner = request.Assigner.GetValueOrDefault();
         if (request.Assignee is not null) entity.Assignee = request.Assignee;
         if (request.AssigneeName is not null) entity.AssigneeName = request.AssigneeName;
-        if (request.UnitId is not null) entity.UnitId = request.UnitId;
+        if (request.ObjectId is not null) entity.ObjectId = request.ObjectId;
         // Update TodoMembers
         if (request.MemberIds is not null && request.MemberName is not null && request.MemberIds.Count == request.MemberName.Count)
         {

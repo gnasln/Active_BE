@@ -16,7 +16,7 @@ public class DailyTask {
     public DailyTaskStatus Status {set; get;} = DailyTaskStatus.New;
     public DateTime? CompleteDate {set; get;}
     public DateTime? CreatedDate {set; get;} = DateTime.Now;
-    public Guid UserId {set; get;}
+    public Guid? ObjectId {set; get;}
     public Guid? TodoItemId {set; get;} = Guid.Empty;
 
 }

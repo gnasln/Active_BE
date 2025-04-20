@@ -18,9 +18,10 @@ public class TodoDetail
     public Guid? ParentTodoItemId { get; set; }
     public ICollection<TodoItem>? SubTodoItems { get; set; }
     public ICollection<TodoItemComment>? Comments { get; set; }
-    public Guid? UnitId { get; set; }
+    public Guid? ObjectId { get; set; }
     public Guid? Assignee { get; set; }
     public string? AssigneeName { get; set; } 
+    public bool IsDone { get; set; }
     public class Mapping : Profile
     {
         public Mapping()

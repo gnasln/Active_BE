@@ -47,18 +47,6 @@ public class CreateObjectCommandHandler(
         try
         {
             var unit = await _unitRepository.GetUnitById(request.UnitId, cancellationToken);
-            // Check authorization
-            var isAuthorized =
-                await _authorizationChecker.IsAuthorized(request.UnitId, unit.TenantId, cancellationToken);
-            if (!isAuthorized)
-            {
-                return new ResultCustom<ObjectDtos>()
-                {
-                    Status = StatusCode.FORBIDDEN,
-                    Message = new[] { "Forbidden" }
-                };
-            }
-
             //create object
             var obj = new ObjectTB()
             {

@@ -37,7 +37,7 @@ public class GetTodoListFromDailyTaskByAdminHandler : IRequestHandler<GetTodoLis
                 .ToListAsync(cancellationToken);
 
             // Load Units
-            var unitIds = todoItems.Select(t => t.UnitId).Distinct();
+            var unitIds = todoItems.Select(t => t.ObjectId).Distinct();
             var units = await _perfContext.Units
                 .Where(u => unitIds.Contains(u.Id))
                 .ToListAsync(cancellationToken);
@@ -50,7 +50,7 @@ public class GetTodoListFromDailyTaskByAdminHandler : IRequestHandler<GetTodoLis
 
             // Combine results
             var listDailyTask = todoItems.Select(todo => {
-                var unit = units.FirstOrDefault(u => u.Id == todo.UnitId);
+                var unit = units.FirstOrDefault(u => u.Id == todo.ObjectId);
                 var tenant = tenants.FirstOrDefault(t => t.Id == unit?.TenantId);
                 return new DailyTaskDto
                 {
@@ -62,7 +62,8 @@ public class GetTodoListFromDailyTaskByAdminHandler : IRequestHandler<GetTodoLis
                     TenantId = unit?.TenantId,
                     TenantName = tenant?.Name,
                     TodoOwnerId = todo.Owner,
-                    TodoOwnerName = todo.OwnerName
+                    TodoOwnerName = todo.OwnerName,
+                    IsDone = todo.IsDone
                 };
             }).ToList();
 

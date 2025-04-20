@@ -10,7 +10,7 @@ namespace TodoSvc.Application.Queries;
 
 public record GetTodoWithPaginationRequest : IRequest<PaginatedList<TodoSimple>>
 {
-    public Guid? UnitId { get; init; } = null;
+    public Guid? ObjectId { get; init; } = null;
     public Guid? OwnerId { get; init; } = null;
     public Guid? Assigner { get; init; } = null;
     public Guid? Assignee { get; init; } = null;
@@ -27,7 +27,7 @@ public class GetTodoWithPaginationRequestHandler(ITodoDbContext db, IMapper mapp
     {
         var qr = _db.TodoItems.AsQueryable();
         qr = qr.Where(x => x.ParentTodoItemId == null);
-        if (request.UnitId is not null) { qr = qr.Where(x => x.UnitId == request.UnitId); }
+        if (request.ObjectId is not null) { qr = qr.Where(x => x.ObjectId == request.ObjectId); }
         if (request.OwnerId is not null) { qr = qr.Where(x => x.Owner == request.OwnerId); }
         if (request.Assignee is not null) { qr = qr.Where(x => x.Assignee == request.Assignee); }
         if (request.Assigner is not null) { qr = qr.Where(x => x.Assigner == request.Assigner); }

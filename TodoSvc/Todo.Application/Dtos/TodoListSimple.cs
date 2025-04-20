@@ -13,11 +13,12 @@ public class TodoSimple
     public PriorityLevel Priority { get; init; }
 
     public TodoStatus Status { get; init; }
-    public Guid? UnitId { get; init; }
+    public Guid? ObjectId { get; init; }
     public Guid? Owner { get; init; }
     public string OwnerName { get; init; } = "";
     public Guid? Assignee { get; init; }
     public string AssigneeName { get; init; } = "";
+    public bool IsDone { get; set; }
 
     public DateTime? DueDate { get; init; } = null;
     public ICollection<TodoSimple>? SubTodoItems { get; init; }

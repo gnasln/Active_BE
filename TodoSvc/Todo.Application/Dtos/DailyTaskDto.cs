@@ -14,4 +14,5 @@ public class DailyTaskDto
     public string? TenantName {set; get;}
     public Guid? TodoOwnerId {set; get;}
     public string? TodoOwnerName {set; get;}
+    public bool IsDone { get; set; }
 }

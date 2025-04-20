@@ -30,7 +30,7 @@ public record CreateTodoCommand : IRequest<TodoMemberDto>
     public Guid Assigner { get; init; } = Guid.Empty;
     public Guid? Assignee { get; init; } = Guid.Empty;
     public string AssigneeName { get; init; } = string.Empty;
-    public Guid? UnitId { get; init; } = Guid.Empty;
+    public Guid? ObjectId { get; init; } = Guid.Empty;
     #endregion
     public Guid? ParentTodoItemId { get; set; }
     public List<Guid>? MemberIds { get; set; }

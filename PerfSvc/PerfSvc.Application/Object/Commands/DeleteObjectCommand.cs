@@ -27,18 +27,6 @@ public class DeleteObjectCommandHandle(
             var checkObject = await _objectRepository.ReadObject(rq.ObjectTBId, cancellationToken);
             var unit = await _unitRepository.GetUnitById(checkObject.UnitId, cancellationToken);
 
-            // Check authorization
-            var isAuthorized =
-                await _authorizationChecker.IsAuthorized(checkObject.UnitId, unit.TenantId, cancellationToken);
-            if (!isAuthorized)
-            {
-                return new ResultCustom<string>()
-                {
-                    Status = StatusCode.FORBIDDEN,
-                    Message = new[] { "Forbidden" }
-                };
-            }
-
             // Proceed to delete the object
             await _objectRepository.DeleteObject(rq.ObjectTBId, cancellationToken);
             return new ResultCustom<string>()

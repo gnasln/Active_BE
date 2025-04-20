@@ -49,17 +49,6 @@ public class UpdateObjectCommandHandle(
         try
         {
             var unit = await _unitRepository.GetUnitById(request.UnitId, cancellationToken);
-            // Check authorization
-            var isAuthorized =
-                await _authorizationChecker.IsAuthorized(request.UnitId, unit.TenantId, cancellationToken);
-            if (!isAuthorized)
-            {
-                return new ResultCustom<ObjectDtos>()
-                {
-                    Status = StatusCode.FORBIDDEN,
-                    Message = new[] { "Forbidden" }
-                };
-            }
 
             // Retrieve the unit by its ID
             var objectTB = await _objectRepository.ReadObject(request.Id, cancellationToken);

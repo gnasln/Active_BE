@@ -8,6 +8,6 @@ namespace Bff.Identity
     public record CheckOtp
     {
         public required string OTP {get; init;}
-        public required string UserName {get; init;}
+        public required string Email {get; init;}
     }
 }

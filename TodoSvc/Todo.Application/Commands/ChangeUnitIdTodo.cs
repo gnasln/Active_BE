@@ -58,13 +58,13 @@ namespace TodoSvc.Application.Commands
             var entity = await _context.TodoItems.FindAsync(new object[] { request.Id }, cancellationToken);
             Guard.Against.NotFound(request.Id, entity);
 
-            entity.UnitId = request.UnitId;
+            entity.ObjectId = request.UnitId;
 
             if (entity.SubTodoItems != null)
             {
                 foreach (var subTodoItem in entity.SubTodoItems)
                 {
-                    subTodoItem.UnitId = request.UnitId;
+                    subTodoItem.ObjectId = request.UnitId;
                 }
             }
 
