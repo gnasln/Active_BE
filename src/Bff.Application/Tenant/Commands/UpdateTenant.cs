@@ -48,7 +48,9 @@ public class TenantUpdateCommandHandle(IApplicationDbContext db, IMediator media
                 Status = StatusCode.FORBIDDEN,
                 Message = new[] { "Forbidden" }
             };
-            
+
+            if(rq.Name is not null) entity.Name = rq.Name;
+
             if (rq.Owner is not null && rq.OwnerName is not null)
             {
                 entity.Owner = rq.Owner.Value;
