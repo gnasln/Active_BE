@@ -29,7 +29,12 @@ namespace Bff.Infrastructure.Extensions
 
         public async Task SendEmailAsync(string email, string name, string otp)
         {
+
+            var companyName = _configuration["EmailSettings:CompanyName"] ?? "Your Company";
+            var fromAddress = _fromAddress; // already set from configuration
+
             var result = await _fluentEmail
+                .SetFrom(fromAddress, companyName)
                 .To(email, name)
                 .Subject("Xác Minh Email")
                 .UsingTemplateFromFile($"D:\\Fit\\ISD\\Active_BE\\Active_BE\\src\\Bff.Infrastructure\\Resources\\Templates\\Send_OTP.cshtml",
